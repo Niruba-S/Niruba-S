@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **opencv,tensorflow,keras**
+- 🌱 I’m currently learning **Opencv , Tensorflow , Keras.**
 
-- 💬 Ask me about **ml algorithms,data cleaning**
+- 💬 Ask me about **ML algorithms , Data Cleaning.**
 
 - 📫 How to reach me **nirubasubramanian@gmail.com**
 
